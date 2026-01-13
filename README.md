@@ -28,9 +28,24 @@
 
 ### 🌌 THE SKILL NEBULA
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,sass,figma,git,vscode,docker,nodejs,mongodb,express&perline=6" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%"><b>⚡ FRONTEND</b></td>
+    <td align="center" width="33%"><b>🎨 DESIGN & STYLE</b></td>
+    <td align="center" width="33%"><b>🛠️ TOOLS</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,react" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind,sass,figma" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
