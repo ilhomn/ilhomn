@@ -1,28 +1,32 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=%E2%96%AE%20SYSTEM%20BOOT%20...%20100%25&fontSize=40&animation=fadeIn&fontAlignY=50&theme=dark" />
-</p>
+
+
 
 <div align="center">
-  <h1>⚡ ARCHITECT_OF_REALITY</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=2000&color=61DAFB&center=true&vCenter=true&width=800&lines=IF+YOU+ARE+READY+TO+HELP+ME+—+GET+IN+TOUCH" alt="Typing SVG" />
+</p>
+    <br/><br/>
   <code>[ USER: ILHOM ]</code> • <code>[ STATUS: EVOLVING ]</code> • <code>[ LEVEL: REACT_MAGE ]</code>
-  <br/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=I+DONT+WRITE+CODE,+I+BUILD+WORLDS.;DEBBUGING+MY+MIND...;STAY+FOCUSED.+STAY+HUNGRY.;THE+FUTURE+IS+JAVASCRIPT." alt="Typing SVG" />
 </div>
 
 ---
-
-### 🟢 CURRENT PHASE
+### 🟢 SYSTEM DIAGNOSTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilhomn&repo=ilhomn&theme=transparent&title_color=61DAFB&text_color=777&icon_color=61DAFB" align="right" width="400">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilhomn&show_icons=true&theme=algolia&hide_border=true&title_color=61DAFB&icon_color=61DAFB" width="420" align="right" />
 </p>
 
-- **⚡ Velocity:** Building high-speed web apps with **Vite & React**
-- **🔋 Energy:** Fueling by **Problem Solving** and heavy bass music
-- **🧩 Logic:** Current obsession — **Clean Architecture & Scalability**
-- **🛰 Node:** `ping -a 127.0.0.1` — _Searching for the next big thing_
+- ⚡ Creating reactive web applications with **Vite & React**
 
-<br clear="right"/>
+<br>
+
+> [!TIP]
+> **CURRENTLY IN FOCUS:** Studying advanced JavaScript patterns, React.
+
+<br clear="right"/>>
+
+
 
 ---
 
@@ -33,16 +37,20 @@
     <td align="center" width="33%"><b>⚡ FRONTEND</b></td>
     <td align="center" width="33%"><b>🎨 DESIGN & STYLE</b></td>
     <td align="center" width="33%"><b>🛠️ TOOLS</b></td>
+    <td align="center" width="33%"><b>🌍 LANGUAGE</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,react" />
+      <img src="https://skillicons.dev/icons?i=html,js,react" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind,sass,figma" />
+      <img src="https://skillicons.dev/icons?i=css,tailwind,sass,figma" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,vscode" />
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,python" />
     </td>
   </tr>
 </table>
