@@ -14,7 +14,7 @@
 ### 🟢 SYSTEM DIAGNOSTICS
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilhomn&show_icons=true&theme=algolia&hide_border=true&title_color=61DAFB&icon_color=61DAFB" width="420" align="right" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5paWNzNHFqc3A1cWVxeDNxem1pbmc1ODNhZ2tiazlnbXBlajJsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" width="300" alt="Monkey holding head" />
 </p>
 
 - ⚡ Creating reactive web applications with **Vite & React**
@@ -24,7 +24,7 @@
 > [!TIP]
 > **CURRENTLY IN FOCUS:** Studying advanced JavaScript patterns, React.
 
-<br clear="right"/>>
+<br clear="right"/>
 
 
 
@@ -34,10 +34,10 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%"><b>⚡ FRONTEND</b></td>
-    <td align="center" width="33%"><b>🎨 DESIGN & STYLE</b></td>
-    <td align="center" width="33%"><b>🛠️ TOOLS</b></td>
-    <td align="center" width="33%"><b>🌍 LANGUAGE</b></td>
+    <td align="center" width="25%"><b>⚡ FRONTEND</b></td>
+    <td align="center" width="25%"><b>🎨 DESIGN & STYLE</b></td>
+    <td align="center" width="25%"><b>🛠️ TOOLS</b></td>
+    <td align="center" width="25%"><b>🌍 LANGUAGE</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -49,11 +49,12 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,vscode" />
     </td>
-     <td align="center">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=cpp,python" />
     </td>
   </tr>
 </table>
+
 
 ---
 
