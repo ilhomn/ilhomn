@@ -36,6 +36,10 @@
 
 ### 📈 NEURAL NETWORK ACTIVITY
 
+---
+
+### 📈 NEURAL NETWORK ACTIVITY
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ilhomn&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000">
@@ -44,10 +48,12 @@
   </picture>
 </p>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhomn&theme=transparent&title_color=61DAFB&text_color=777&layout=compact" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilhomn&theme=transparent&utcOffset=5" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhomn&theme=transparent&title_color=61DAFB&text_color=888&layout=compact&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ilhomn&theme=transparent&title_color=61DAFB&text_color=888&show_icons=true&hide_border=true&count_private=true" />
+</p>
+
+---
 
 ---
 
