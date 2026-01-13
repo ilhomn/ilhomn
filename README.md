@@ -14,7 +14,7 @@
 ### 🟢 CURRENT PHASE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rqnzmv&repo=rqnzmv&theme=transparent&title_color=61DAFB&text_color=777&icon_color=61DAFB" align="right" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilhomn&repo=ilhomn&theme=transparent&title_color=61DAFB&text_color=777&icon_color=61DAFB" align="right" width="400">
 </p>
 
 - **⚡ Velocity:** Building high-speed web apps with **Vite & React**
@@ -28,13 +28,9 @@
 
 ### 🌌 THE SKILL NEBULA
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,sass,figma,git,vscode,docker,nodejs,mongodb,express&perline=6" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,sass,figma,git,vscode,docker,nodejs,mongodb,express&perline=6" />
+</p>
 
 ---
 
@@ -50,8 +46,20 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhomn&theme=transparent&title_color=61DAFB&text_color=777&layout=compact" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rqnzmv&theme=transparent&utcOffset=5" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilhomn&theme=transparent&utcOffset=5" />
 </div>
+
+---
+
+### 🐍 SYSTEM CONTRIBUTION SNAKE
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilhomn/ilhomn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilhomn/ilhomn/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ilhomn/ilhomn/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
@@ -59,7 +67,7 @@
 
 <details>
 <summary><b>📂 CLICK TO DECRYPT BIOGRAPHY</b></summary>
-<pre>
+<pre align="center">
   _____ _ _                      
  |_   _| | |                     
    | | | | |__   ___  _ __ ___   
@@ -69,20 +77,10 @@
                                  
  > Loading secret data...
  > Passion: Turning complex ideas into simple interfaces.
+ > Target: Senior Fullstack Developer.
 </pre>
 </details>
 
----
-
-### 🐍 SYSTEM CONTRIBUTION SNAKE
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rqnzmv/rqnzmv/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rqnzmv/rqnzmv/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/rqnzmv/rqnzmv/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 ---
 
 ### 🔗 SIGNAL CHANNELS
