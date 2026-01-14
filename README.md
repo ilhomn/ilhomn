@@ -95,6 +95,7 @@ Integrated with the **Gemini API** to generate smarter and more dynamic response
 - Python  
 - Telebot  
 - Gemini API  
+[Telegram Bot → @Sejonginstitute3_bot](https://t.me/Sejonginstitute3_bot)
 
 ---
 
