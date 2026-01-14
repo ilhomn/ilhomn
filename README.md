@@ -22,7 +22,7 @@
 <table width="100%">
   <tr>
   <!-- LEFT: TEXT -->
-  <td width="60%" valign="top">
+  <td width="70%" valign="top">
 
 - 👋 Hi, I'm **Ilhom** — a self-taught **Frontend Developer**
 - ⚡ Building modern web interfaces with **React & Vite**
@@ -53,7 +53,7 @@
   </td>
 
   <!-- RIGHT: IMAGE -->
-  <td width="40%" align="center">
+  <td width="30%" align="center">
     <img 
       src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5paWNzNHFqc3A1cWVxeDNxem1pbmc1ODNhZ2tiazlnbXBlajJsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" 
       width="360" 
