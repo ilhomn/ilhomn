@@ -48,6 +48,9 @@
   <a href="mailto:ilhomnozimov.nzzmmvv@gmail.com">
     <img src="https://img.shields.io/badge/MAIL-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+    <a href="https://github.com/ilhomn">
+    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
   </td>
