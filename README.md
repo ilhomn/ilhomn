@@ -116,10 +116,11 @@ Integrated with the **Gemini API** to generate smarter and more dynamic response
       <img src="https://skillicons.dev/icons?i=git,vscode" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,cpp,python" />
+      <img src="https://skillicons.dev/icons?i=js,cpp,python,arduino" />
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -146,36 +147,10 @@ Integrated with the **Gemini API** to generate smarter and more dynamic response
 </p>
 
 ---
-
-### 🕹️ THE INTERACTIVE ZONE
-
-<details>
-<summary><b>📂 CLICK TO DECRYPT BIOGRAPHY</b></summary>
-
-<pre align="center">
-  _____ _ _                      
- |_   _| | |                     
-   | | | | |__   ___  _ __ ___   
-   | | | | '_ \ / _ \| '_ ` _ \  
-  _| |_| | | | | (_) | | | | | | 
- |_____|_|_| |_|\___/|_| |_| |_| 
-
- > Status: Self-taught Frontend Developer
- > Passion: Turning complex ideas into simple interfaces
- > Target: Frontend Developer
- > Interests: Web development & algorithms
-</pre>
-
-</details>
-
----
-
-### 🔗 SIGNAL CHANNELS
-
-
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=footer&text=END%20OF%20LINE&fontSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=60&section=footer&text=THANKS%20FOR%20VISITING&fontSize=20" />
 </p>
+
+---
+
+
