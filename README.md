@@ -148,8 +148,11 @@ Integrated with the **Gemini API** to generate smarter and more dynamic response
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=60&section=footer&text=THANKS%20FOR%20VISITING&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=60&section=footer&text=THANKS%20FOR%20VISITING&fontSize=20&fontColor=ffffff" />
 </p>
+
+
+
 
 ---
 
