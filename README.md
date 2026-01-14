@@ -12,30 +12,51 @@
 
 ---
 
-### 🟢 SYSTEM DIAGNOSTICS
+### 🟢 About me
 
 <table width="100%">
   <tr>
-    <!-- LEFT: TEXT -->
-    <td width="60%" valign="top">
+  <!-- LEFT: TEXT -->
+  <td width="60%" valign="top">
 
-- ⚡ Building modern web interfaces with **React & Vite**  
-- 🎯 Focused on clean UI, usability, and real-world projects  
-- 📚 Self-taught developer learning through practice and experimentation  
+- 👋 Hi, I'm **Ilhom** — a self-taught **Frontend Developer**
+- ⚡ Building modern web interfaces with **React & Vite**
+- 🎨 Focused on clean UI, responsive design, and real-world projects
+- 🌐 Developed an educational center website and automation tools
+- 📚 Constantly learning through practice, experiments, and algorithms
 
 <br>
 
 > [!TIP]  
-> **CURRENTLY IN FOCUS:** Advanced JavaScript, React patterns, algorithms, and modern web development.
-    </td>
-    <td width="50%" align="center">
-      <img 
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5paWNzNHFqc3A1cWVxeDNxem1pbmc1ODNhZ2tiazlnbXBlajJsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" 
-        width="380" 
-        alt="System loading"
-      />
-    </td>
-  </tr>
+> **CURRENTLY IN FOCUS:**  
+> Advanced JavaScript, React patterns, web development, and algorithms.
+
+<br>
+
+<p align="left">
+  <a href="https://t.me/rqnzmv">
+    <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://instagram.com/911ilhom">
+    <img src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:ilhomnozimov.nzzmmvv@gmail.com">
+    <img src="https://img.shields.io/badge/MAIL-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+  </td>
+
+  <!-- RIGHT: IMAGE -->
+  <td width="40%" align="center">
+    <img 
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5paWNzNHFqc3A1cWVxeDNxem1pbmc1ODNhZ2tiazlnbXBlajJsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" 
+      width="360" 
+      alt="System loading"
+    />
+  </td>
+</tr>
+
 </table>
 
 ---
@@ -144,14 +165,7 @@ Integrated with the **Gemini API** to generate smarter and more dynamic response
 
 ### 🔗 SIGNAL CHANNELS
 
-<p align="center">
-<a href="https://t.me/rqnzmv">
-  <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-<a href="https://instagram.com/911ilhom">
-  <img src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-</p>
+
 
 ---
 
