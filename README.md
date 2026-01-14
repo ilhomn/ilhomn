@@ -14,22 +14,32 @@
 
 ### 🟢 SYSTEM DIAGNOSTICS
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5paWNzNHFqc3A1cWVxeDNxem1pbmc1ODNhZ2tiazlnbXBlajJsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" width="300" alt="System loading" />
-</p>
+<table width="100%">
+  <tr>
+    <!-- LEFT: TEXT -->
+    <td width="60%" valign="top">
 
-- ⚡ Building modern web interfaces with **React & Vite**
-- 🎯 Focused on clean UI, usability, and real-world projects
-- 📚 Self-taught developer learning through practice and experimentation
+- ⚡ Building modern web interfaces with **React & Vite**  
+- 🎯 Focused on clean UI, usability, and real-world projects  
+- 📚 Self-taught developer learning through practice and experimentation  
 
 <br>
 
-> [!TIP]
+> [!TIP]  
 > **CURRENTLY IN FOCUS:** Advanced JavaScript, React patterns, algorithms, and modern web development.
-
-<br clear="right"/>
+    </td>
+    <td width="50%" align="center">
+      <img 
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5paWNzNHFqc3A1cWVxeDNxem1pbmc1ODNhZ2tiazlnbXBlajJsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" 
+        width="380" 
+        alt="System loading"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### 🚀 ACTIVE PROJECTS
 
@@ -124,7 +134,7 @@ Integrated with the **Gemini API** to generate smarter and more dynamic response
 
  > Status: Self-taught Frontend Developer
  > Passion: Turning complex ideas into simple interfaces
- > Target: Junior Frontend Developer
+ > Target: Frontend Developer
  > Interests: Web development & algorithms
 </pre>
 
