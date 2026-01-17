@@ -81,7 +81,6 @@ Designed to showcase courses, activities, and general information in a clean and
 - React  
 - Vite  
 - Tailwind CSS  
-- SCSS / SASS  
 
 🔗 https://itcc-tut.org/
 
