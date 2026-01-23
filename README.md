@@ -110,7 +110,7 @@ Integrated with the **Gemini API** to generate smarter and more dynamic response
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,react" />
+      <img src="https://skillicons.dev/icons?i=html,react,bootstrap" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css,tailwind,sass,figma" />
