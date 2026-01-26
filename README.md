@@ -119,7 +119,7 @@ Integrated with the **Gemini API** to generate smarter and more dynamic response
       <img src="https://skillicons.dev/icons?i=git,vscode" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,cpp,python,arduino" />
+      <img src="https://skillicons.dev/icons?i=js,nodejs,cpp,python,arduino" />
     </td>
   </tr>
 </table>
