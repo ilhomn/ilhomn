@@ -25,10 +25,6 @@
   <td width="70%" valign="top">
 
 - 👋 Hi, I'm **Ilhom** — a self-taught **Frontend Developer**
-- ⚡ Building modern web interfaces with **React & Vite**
-- 🎨 Focused on clean UI, responsive design, and real-world projects
-- 🌐 Developed an educational center website and automation tools
-- 📚 Constantly learning through practice, experiments, and algorithms
 
 <br>
 
@@ -85,20 +81,6 @@ Designed to showcase courses, activities, and general information in a clean and
 🔗 https://itcc-tut.org/
 
 ---
-
-#### 🤖 Telegram Bot for Educational Center
-A Telegram bot developed to simplify communication and automatically answer frequently asked questions.  
-Integrated with the **Gemini API** to generate smarter and more dynamic responses.
-
-**Tech stack:**
-- Python  
-- Telebot  
-- Gemini API  
-[Telegram Bot → @Sejonginstitute3_bot](https://t.me/Sejonginstitute3_bot)
-
----
-
-
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBra3AyN3JmdjBibHRrdm1janJxMXZhNG9ocnI3ZXoxYXJwZ2k3MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kF6XLAE5EUAT4Df94n/giphy.gif" width="40" /> THE SKILL NEBULA 
 
 <table align="center" width="100%">
@@ -139,7 +121,7 @@ Integrated with the **Gemini API** to generate smarter and more dynamic response
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVxMXZqYjF4a3Vkcmw3dWZvZ25vNnFtYWlneml1dzBjaW4xMzl0eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TJGEDDEfnFdsOklnZe/giphy.gif" width="40" /> SYSTEM CONTRIBUTION SNAKE
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVxMXZqYjF4a3Vkcmw3dWZvZ25vNnFtYWlneml1dzBjaW4xMzl0eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TJGEDDEfnFdsOklnZe/giphy.gif" width="40" /> SYSTEM CONTRIBUTION SNAKE
 
 <p align="center">
   <picture>
@@ -149,7 +131,7 @@ Integrated with the **Gemini API** to generate smarter and more dynamic response
   </picture>
 </p>
 
----
+--- -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=60&section=footer&text=THANKS%20FOR%20VISITING&fontSize=20&fontColor=ffffff" />
 </p>
