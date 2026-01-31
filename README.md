@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=2000&color=61DAFB&center=true&vCenter=true&width=800&lines=IF+YOU+ARE+READY+TO+HELP+ME+—+GET+IN+TOUCH" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=2000&color=61DAFB&center=true&vCenter=true&width=800&lines=Hi,+I'm+Ilhom" alt="Typing SVG" />
 </p>
 
 <br/>
