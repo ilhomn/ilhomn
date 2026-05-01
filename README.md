@@ -98,7 +98,7 @@ Designed to showcase courses, activities, and general information in a clean and
       <img src="https://skillicons.dev/icons?i=css,tailwind,sass,figma" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,vscode,firebase" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js,nodejs,cpp,python,arduino" />
