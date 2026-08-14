@@ -97,15 +97,17 @@ Designed to showcase courses, activities, and general information in a clean and
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css,tailwind,sass,figma" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,vscode,firebase" />
-    </td>
+  <td align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://simpleicons.org/icons/expo.svg" width="48" height="48" style="background:#1b1b1f; border-radius:10px; padding:8px; filter: invert(1);" />
+</td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js,nodejs,cpp,python,arduino" />
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -121,24 +123,6 @@ Designed to showcase courses, activities, and general information in a clean and
 
 ---
 
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVxMXZqYjF4a3Vkcmw3dWZvZ25vNnFtYWlneml1dzBjaW4xMzl0eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TJGEDDEfnFdsOklnZe/giphy.gif" width="40" /> SYSTEM CONTRIBUTION SNAKE
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilhomn/ilhomn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilhomn/ilhomn/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ilhomn/ilhomn/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
---- -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=60&section=footer&text=THANKS%20FOR%20VISITING&fontSize=20&fontColor=ffffff" />
 </p>
-
-
-
-
----
-
-
