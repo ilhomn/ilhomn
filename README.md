@@ -97,12 +97,7 @@ Designed to showcase courses, activities, and general information in a clean and
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css,tailwind,sass,figma" />
     </td>
-  <td align="center">
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://simpleicons.org/icons/expo.svg" width="48" height="48" style="background:#1b1b1f; border-radius:10px; padding:8px; filter: invert(1);" />
-</td>
+    <td align="center" nowrap><img src="https://skillicons.dev/icons?i=git" /><img src="https://skillicons.dev/icons?i=vscode" /><img src="https://skillicons.dev/icons?i=firebase" /><img src="https://img.shields.io/badge/-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" width="48" height="48" /><img src="https://img.shields.io/badge/-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" width="48" height="48" /></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js,nodejs,cpp,python,arduino" />
     </td>
