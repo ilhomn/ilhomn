@@ -109,11 +109,7 @@ Designed to showcase courses, activities, and general information in a clean and
 ### 📈 NEURAL NETWORK ACTIVITY
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ilhomn&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ilhomn&theme=github-light&area=true&hide_border=true&bg_color=00000000">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhomn&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000">
-  </picture>
+  <img src="https://raw.githubusercontent.com/ilhomn/ilhomn/main/dist/activity-graph.svg" alt="Activity Graph">
 </p>
 
 ---
