@@ -38,7 +38,7 @@ Currently focused on: **Advanced JavaScript · React patterns · Algorithms**
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ilhomn/ilhomn/main/dist/activity-graph.svg" alt="Activity Graph" />
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ilhomn&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <p align="center">
